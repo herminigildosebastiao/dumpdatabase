@@ -3,6 +3,7 @@
 Simples Gerenciador de cópia de segurança e envio de banco de dados MySQL e MariaDB
 
 ##Instalação
+
 Para instalar executa o comando abaixo no terminal
 ```shell
 	composer require herminigildosebastiao/dumpdatabase
